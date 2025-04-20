@@ -1,6 +1,6 @@
 **Zadanie 1** Docker
 
-:white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [Link do commita 1](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [obraz ubuntu z Pythonem w wersji 3.10](https://github.com/AdrianDajakaj/docker-basic-exercises/commit/b1bc0c8)
 
 :white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
 
