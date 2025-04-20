@@ -1,6 +1,6 @@
 **Zadanie 1** Docker
 
-:white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [https://github.com/AdrianDajakaj/docker-basic-exercises/commit/b1bc0c8](https://github.com/AdrianDajakaj/docker-basic-exercises/commit/b1bc0c8)
+:white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79](https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79)
 
 :white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
 
@@ -11,7 +11,7 @@
 :white_check_mark: 5.0 konfiguracja docker-compose (jaml) [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: [docker-basic-exercises](https://github.com/AdrianDajakaj/docker-basic-exercises.git)
+Kod: [https://github.com/AdrianDajakaj/docker-images-exercises.git](https://github.com/AdrianDajakaj/docker-images-exercises.git)
 
 **Zadanie 2** Scala  
 Aplikacja na frameworku Play w Scali 3. 
