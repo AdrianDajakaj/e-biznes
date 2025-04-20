@@ -13,7 +13,7 @@
 
 Kod: (folder lub branch)
 
-**Zadanie 2** Scala
+**Zadanie 2** Scala  
 Aplikacja na frameworku Play w Scali 3. 
 
 :white_check_mark: 3.0 Kontroler do Produktów [Link do commita 1](https://github.com/kprzystalski/workshop_template/commit/hash)
