@@ -11,7 +11,7 @@
 :white_check_mark: 5.0 konfiguracja docker-compose (jaml) [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: (folder lub branch)
+Kod: [docker-basic-exercises](https://github.com/AdrianDajakaj/docker-basic-exercises.git)
 
 **Zadanie 2** Scala  
 Aplikacja na frameworku Play w Scali 3. 
@@ -23,13 +23,13 @@ Aplikacja na frameworku Play w Scali 3.
 :white_check_mark: 4.0 Kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD
  [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
 
-:x: 4.5 Aplikacja uruchomiona na dockerze (obraz) oraz skrypt uruchamiający aplikację via ngrok
+:white_check_mark: 4.5 Aplikacja uruchomiona na dockerze (obraz) oraz skrypt uruchamiający aplikację via ngrok
  [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
 
-:x: 5.0 Konfiguracja CORS dla dwóch hostów dla metod CRUD [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 5.0 Konfiguracja CORS dla dwóch hostów dla metod CRUD [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: (folder lub branch)
+Kod: [scala-play-crud](https://github.com/AdrianDajakaj/scala-play-crud.git)
 
 **Zadanie 3** Kotlin
 
@@ -40,11 +40,11 @@ Kod: (folder lub branch)
 :white_check_mark: 4.0 Zwraca listę kategorii na określone żądanie użytkownika
  [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
 
-:x: 4.5 Zwraca listę produktów wg żądanej kategorii
+:white_check_mark: 4.5 Zwraca listę produktów wg żądanej kategorii
  [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
 
-:x: 5.0 Dodatkowa obsługa jednej z platform: Slack, Messenger, Webex [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 5.0 Dodatkowa obsługa jednej z platform: Slack, Messenger, Webex [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
 
-Kod: (folder lub branch)
+Kod: [kotlin-ktor-client-app](https://github.com/AdrianDajakaj/kotlin-ktor-client-app.git)
 
