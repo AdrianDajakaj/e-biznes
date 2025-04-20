@@ -2,7 +2,7 @@
 
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79](https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79)
 
-:white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [https://github.com/AdrianDajakaj/docker-images-exercises/commit/04a1353](https://github.com/AdrianDajakaj/docker-images-exercises/commit/04a1353)
 
 :white_check_mark: 4.0 najnowszy Gradle oraz paczka JDBC SQLite w ramach projektu na Gradle (build.gradle) [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
 
