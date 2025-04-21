@@ -4,7 +4,7 @@
 
 :white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [https://github.com/AdrianDajakaj/docker-images-exercises/commit/04a1353](https://github.com/AdrianDajakaj/docker-images-exercises/commit/04a1353)
 
-:white_check_mark: 4.0 najnowszy Gradle oraz paczka JDBC SQLite w ramach projektu na Gradle (build.gradle) [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 4.0 najnowszy Gradle oraz paczka JDBC SQLite w ramach projektu na Gradle (build.gradle) [https://github.com/AdrianDajakaj/docker-images-exercises/commit/a14dbdf](https://github.com/AdrianDajakaj/docker-images-exercises/commit/a14dbdf)
 
 :white_check_mark: 4.5 przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
 
