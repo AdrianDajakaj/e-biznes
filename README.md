@@ -6,7 +6,7 @@
 
 :white_check_mark: 4.0 najnowszy Gradle oraz paczka JDBC SQLite w ramach projektu na Gradle (build.gradle) [https://github.com/AdrianDajakaj/docker-images-exercises/commit/a14dbdf](https://github.com/AdrianDajakaj/docker-images-exercises/commit/a14dbdf)
 
-:white_check_mark: 4.5 przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 4.5 przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle [https://github.com/AdrianDajakaj/docker-images-exercises/commit/16badd9](https://github.com/AdrianDajakaj/docker-images-exercises/commit/16badd9)
 
 :white_check_mark: 5.0 konfiguracja docker-compose (jaml) [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
 
