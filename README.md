@@ -8,7 +8,7 @@
 
 :white_check_mark: 4.5 przykład typu HelloWorld oraz uruchomienie aplikacji przez CMD oraz gradle [https://github.com/AdrianDajakaj/docker-images-exercises/commit/16badd9](https://github.com/AdrianDajakaj/docker-images-exercises/commit/16badd9)
 
-:white_check_mark: 5.0 konfiguracja docker-compose (jaml) [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 5.0 konfiguracja docker-compose (jaml) [https://github.com/AdrianDajakaj/docker-images-exercises/commit/2b1a5e0](https://github.com/AdrianDajakaj/docker-images-exercises/commit/2b1a5e0)
 
 
 Kod: [https://github.com/AdrianDajakaj/docker-images-exercises.git](https://github.com/AdrianDajakaj/docker-images-exercises.git)
