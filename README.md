@@ -26,7 +26,8 @@ Aplikacja na frameworku Play w Scali 3.
 :white_check_mark: 4.5 Aplikacja uruchomiona na dockerze (obraz) oraz skrypt uruchamiający aplikację via ngrok
  [https://github.com/AdrianDajakaj/scala-play-crud/commit/f2180b6](https://github.com/AdrianDajakaj/scala-play-crud/commit/f2180b6)
 
-:white_check_mark: 5.0 Konfiguracja CORS dla dwóch hostów dla metod CRUD [Link do commita 5](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 5.0 Konfiguracja CORS dla dwóch hostów dla metod CRUD [https://github.com/AdrianDajakaj/scala-play-crud/commit/ff3305a
+](https://github.com/AdrianDajakaj/scala-play-crud/commit/ff3305a)
 
 
 Kod: [scala-play-crud](https://github.com/AdrianDajakaj/scala-play-crud.git)
