@@ -16,7 +16,7 @@ Kod: [https://github.com/AdrianDajakaj/docker-images-exercises.git](https://gith
 **Zadanie 2** Scala  
 Aplikacja na frameworku Play w Scali 3. 
 
-:white_check_mark: 3.0 Kontroler do Produktów [Link do commita 1](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.0 Kontroler do Produktów [https://github.com/AdrianDajakaj/scala-play-crud/commit/56f8910](https://github.com/AdrianDajakaj/scala-play-crud/commit/56f8910)
 
 :white_check_mark: 3.5 Endpointy zgodnie z CRUD do kontrolera - dane pobierane z listy [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
 
