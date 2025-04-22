@@ -21,7 +21,7 @@ Aplikacja na frameworku Play w Scali 3.
 :white_check_mark: 3.5 Endpointy zgodnie z CRUD do kontrolera - dane pobierane z listy [https://github.com/AdrianDajakaj/scala-play-crud/commit/db83cc9](https://github.com/AdrianDajakaj/scala-play-crud/commit/db83cc9)
 
 :white_check_mark: 4.0 Kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD
- [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
+ [https://github.com/AdrianDajakaj/scala-play-crud/commit/8e1e0f9](https://github.com/AdrianDajakaj/scala-play-crud/commit/8e1e0f9)
 
 :white_check_mark: 4.5 Aplikacja uruchomiona na dockerze (obraz) oraz skrypt uruchamiający aplikację via ngrok
  [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
