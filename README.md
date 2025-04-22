@@ -11,7 +11,7 @@
 :white_check_mark: 5.0 konfiguracja docker-compose (jaml) [https://github.com/AdrianDajakaj/docker-images-exercises/commit/2b1a5e0](https://github.com/AdrianDajakaj/docker-images-exercises/commit/2b1a5e0)
 
 
-Kod: [https://github.com/AdrianDajakaj/docker-images-exercises.git](https://github.com/AdrianDajakaj/docker-images-exercises.git)  
+Kod: [docker-images-exercises](https://github.com/AdrianDajakaj/docker-images-exercises.git)  
 Demo: [docker.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d44787e08c8d9ce063cea371b856522a5c1/demos/docker.mp4)
 
 **Zadanie 2** Scala  
