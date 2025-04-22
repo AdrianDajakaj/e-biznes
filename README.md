@@ -12,6 +12,7 @@
 
 
 Kod: [https://github.com/AdrianDajakaj/docker-images-exercises.git](https://github.com/AdrianDajakaj/docker-images-exercises.git)
+Demo: [docker.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d44787e08c8d9ce063cea371b856522a5c1/demos/docker.mp4)
 
 **Zadanie 2** Scala  
 Aplikacja na frameworku Play w Scali 3. 
@@ -31,6 +32,7 @@ Aplikacja na frameworku Play w Scali 3.
 
 
 Kod: [scala-play-crud](https://github.com/AdrianDajakaj/scala-play-crud.git)
+Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d44787e08c8d9ce063cea371b856522a5c1/demos/scala_play.mp4)
 
 **Zadanie 3** Kotlin
 
