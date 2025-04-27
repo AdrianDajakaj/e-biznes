@@ -47,7 +47,7 @@ Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d4478
 )
 
 :white_check_mark: 4.5 Zwraca listę produktów wg żądanej kategorii
- [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
+ [https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/d78947e](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/d78947e)
 
 :x: 5.0 Dodatkowa obsługa jednej z platform: Slack, Messenger, Webex 
 
