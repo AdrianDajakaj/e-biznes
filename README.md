@@ -57,11 +57,11 @@ Demo: [kotlin_ktor.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/21c8c68e1
 
 **Zadanie 4** Go
 
-:question: 3.0 Aplikacja we frameworku echo w j. Go, posiadająca kontroler Produktów zgodny z CRUD
+:question: 3.0 Aplikacja we frameworku echo w j. Go, posiadająca kontroler Produktów zgodny z CRUD  
 :question: 3.5 Model Produktów wykorzystując gorm oraz wykorzystując model do obsługi produktów (CRUD) w kontrolerze (zamiast
-listy)
-:question: 4.0 Model Koszyka oraz odpowiedni endpoint
-:question: 4.5 Model kategorii i relacja między kategorią, a produktem
+listy)  
+:question: 4.0 Model Koszyka oraz odpowiedni endpoint  
+:question: 4.5 Model kategorii i relacja między kategorią, a produktem  
 :question: 5.0 Pogrupowane zapytania w gorm’owe scope'y
 
 
@@ -70,11 +70,11 @@ Demo:
 
 **Zadanie 5** Frontend
 
-:question: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej
-:question: 3.5 Koszyk wraz z widokiem wykorzystując routing
-:question: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks
-:question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
-:question: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS
+:question: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  
+:question: 3.5 Koszyk wraz z widokiem wykorzystując routing  
+:question: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks  
+:question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
+:question: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS  
 
 
 Kod:  
@@ -82,10 +82,10 @@ Demo:
 
 **Zadanie 6** Testy
 
-:question: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)
-:question: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji
-:question: 4.0 Testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami
-:question: 4.5 Testy API, pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+:question: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)  
+:question: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji  
+:question: 4.0 Testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami  
+:question: 4.5 Testy API, pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint  
 :question: 5.0 Uruchomienie testów funkcjonalnych na Browserstacku
 
 
@@ -94,10 +94,10 @@ Demo:
 
 **Zadanie 7** Sonar
 
-:question: 3.0 Dodanie litera do odpowiedniego kodu aplikacji serwerowej w hookach gita
-:question: 3.5 Eliminacja wszystkich bugów w kodzie w Sonarze (kod aplikacji serwerowej) 
-:question: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej)
-:question: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)
+:question: 3.0 Dodanie litera do odpowiedniego kodu aplikacji serwerowej w hookach gita  
+:question: 3.5 Eliminacja wszystkich bugów w kodzie w Sonarze (kod aplikacji serwerowej)   
+:question: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej)  
+:question: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)  
 :question: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej
 
 
