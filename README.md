@@ -38,7 +38,8 @@ Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d4478
 
 :white_check_mark: 3.0 Aplikacja kliencka w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord [https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/c44eda8](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/c44eda8)
 
-:white_check_mark: 3.5 Aplikacja umożliwia odbieranie wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota) [Link do commita2 ](https://github.com/kprzystalski/workshop_template/commit/hash)
+:white_check_mark: 3.5 Aplikacja umożliwia odbieranie wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota) [https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/b989dbb
+](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/b989dbb)
 
 :white_check_mark: 4.0 Zwraca listę kategorii na określone żądanie użytkownika
  [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
