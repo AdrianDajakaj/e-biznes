@@ -42,7 +42,9 @@ Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d4478
 ](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/b989dbb)
 
 :white_check_mark: 4.0 Zwraca listę kategorii na określone żądanie użytkownika
- [Link do commita 3](https://github.com/kprzystalski/workshop_template/commit/hash)
+ [https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/7111414
+](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/7111414
+)
 
 :white_check_mark: 4.5 Zwraca listę produktów wg żądanej kategorii
  [Link do commita 4](https://github.com/kprzystalski/workshop_template/commit/hash)
