@@ -53,4 +53,4 @@ Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d4478
 
 
 Kod: [kotlin-ktor-client-app](https://github.com/AdrianDajakaj/kotlin-ktor-client-app.git)
-
+Demo: [kotlin_ktor.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/21c8c68e17a1ba6e72f53b5592703fd7deb939c0/demos/kotlin_ktor.mp4)
