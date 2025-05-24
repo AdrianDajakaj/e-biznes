@@ -71,7 +71,7 @@ listy)  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https
 (Ze względu na trudność w podziale na commity tego projektu wszystkie podpunkty zawarte w jednym commicie, natomiast w README API jest dobrze objaśnione)
 
 Kod: [go-ecommerce-api](https://github.com/AdrianDajakaj/go-ecommerce-api.git)  
-Demo:
+Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaacb4775158d2990da98ab872746ac54c86e15/demos/go_ecommerce_api.mp4)
 
 **Zadanie 5** Frontend
 
