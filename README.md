@@ -58,12 +58,18 @@ Demo: [kotlin_ktor.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/21c8c68e1
 **Zadanie 4** Go
 
 ✅: 3.0 Aplikacja we frameworku echo w j. Go, posiadająca kontroler Produktów zgodny z CRUD  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
+
 ✅: 3.5 Model Produktów wykorzystując gorm oraz wykorzystując model do obsługi produktów (CRUD) w kontrolerze (zamiast
 listy)  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
+
 ✅: 4.0 Model Koszyka oraz odpowiedni endpoint  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
+
 ✅: 4.5 Model kategorii i relacja między kategorią, a produktem  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
+
 ✅: 5.0 Pogrupowane zapytania w gorm’owe scope'y [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
+
 (Ze względu na trudność w podziale na commity tego projektu wszystkie podpunkty zawarte w jednym commicie, natomiast w README API jest dobrze objaśnione)
+
 Kod: [go-ecommerce-api](https://github.com/AdrianDajakaj/go-ecommerce-api.git)
 Demo:
 
