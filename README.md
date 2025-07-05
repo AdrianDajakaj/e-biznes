@@ -78,11 +78,19 @@ Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaa
 ✅: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71)  
 ✅: 3.5 Koszyk wraz z widokiem wykorzystując routing   [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88)  
 ✅: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a)  
-:question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
+✅: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
+- Frontend: [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/8b45366](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/8b45366)  
+- Backend: [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/7b2f062](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/7b2f062)  
+- Fullstack: [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/841ed25](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/841ed25)
+
 ✅: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/487e18c](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/487e18c)
 
 
-Kod: [react-ecommerce-client](https://github.com/AdrianDajakaj/react-ecommerce-client.git)  
+Kod:  
+- Frontend: [react-ecommerce-client](https://github.com/AdrianDajakaj/react-ecommerce-client.git)  
+- Backend (API): [go-ecommerce-api](https://github.com/AdrianDajakaj/go-ecommerce-api.git)
+- Fullstack: [ecommerce-fullstack](https://github.com/AdrianDajakaj/ecommerce-fullstack.git)
+
 Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4)
 
 **Zadanie 6** Testy
