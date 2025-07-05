@@ -75,7 +75,7 @@ Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaa
 
 **Zadanie 5** Frontend
 
-:question: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  
+✅: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71)
 :question: 3.5 Koszyk wraz z widokiem wykorzystując routing  
 :question: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks  
 :question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
