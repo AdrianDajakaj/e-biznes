@@ -71,18 +71,18 @@ listy)  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https
 (Ze względu na trudność w podziale na commity tego projektu wszystkie podpunkty zawarte w jednym commicie, natomiast w README API jest dobrze objaśnione)
 
 Kod: [go-ecommerce-api](https://github.com/AdrianDajakaj/go-ecommerce-api.git)  
-Demo:
+Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaacb4775158d2990da98ab872746ac54c86e15/demos/go_ecommerce_api.mp4)
 
 **Zadanie 5** Frontend
 
-:question: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  
-:question: 3.5 Koszyk wraz z widokiem wykorzystując routing  
-:question: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks  
+✅: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71)  
+✅: 3.5 Koszyk wraz z widokiem wykorzystując routing   [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88)  
+✅: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a)  
 :question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
 :question: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS  
 
 
-Kod:  
+Kod: [react-ecommerce-client](https://github.com/AdrianDajakaj/react-ecommerce-client.git) 
 Demo:
 
 **Zadanie 6** Testy
