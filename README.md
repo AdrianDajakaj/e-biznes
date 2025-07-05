@@ -82,8 +82,8 @@ Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaa
 :question: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS  
 
 
-Kod: [react-ecommerce-client](https://github.com/AdrianDajakaj/react-ecommerce-client.git) 
-Demo:
+Kod: [react-ecommerce-client](https://github.com/AdrianDajakaj/react-ecommerce-client.git)  
+Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4)
 
 **Zadanie 6** Testy
 
