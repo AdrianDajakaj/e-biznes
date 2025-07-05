@@ -77,7 +77,7 @@ Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaa
 
 ✅: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71)  
 ✅: 3.5 Koszyk wraz z widokiem wykorzystując routing   [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88)  
-:question: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks  
+✅: 4.0 Dane pomiędzy wszystkimi komponentami przesyłane za pomocą React hooks [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/497057a)  
 :question: 4.5 Skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose  
 :question: 5.0 Wykorzystanie axios’a oraz nagłówki pod CORS  
 
