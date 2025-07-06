@@ -102,7 +102,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63
 :question: 5.0 Uruchomienie testów funkcjonalnych na Browserstacku
 
 
-Kod:  
+Kod:  [ecommerce-fullstack](https://github.com/AdrianDajakaj/ecommerce-fullstack.git)
 Demo:
 
 **Zadanie 7** Sonar
