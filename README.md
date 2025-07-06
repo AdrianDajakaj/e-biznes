@@ -98,8 +98,10 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63
 ✅: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65)  
 ✅: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji  [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/96df336](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/96df336)  
 ✅: 4.0 Testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/5135cce](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/5135cce)  
-✅: 4.5 Testy API, pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/8ff12fc](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/8ff12fc)
-:question: 5.0 Uruchomienie testów funkcjonalnych na Browserstacku
+✅: 4.5 Testy API, pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/8ff12fc](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/8ff12fc)  
+✅: 5.0 Uruchomienie testów funkcjonalnych na Browserstacku  
+[https://automate.browserstack.com/dashboard/v2/builds/d74d6e4caba51f32847a9ba3cfb6711f2ee6d5c9](https://automate.browserstack.com/dashboard/v2/builds/d74d6e4caba51f32847a9ba3cfb6711f2ee6d5c9)  
+[https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/750daa8](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/750daa8)
 
 
 Kod:  [ecommerce-fullstack](https://github.com/AdrianDajakaj/ecommerce-fullstack.git)  
