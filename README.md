@@ -115,7 +115,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059e
 
 
 ✅: 3.5 Eliminacja wszystkich bugów w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=BUG](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=BUG)  
-✅: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL)
+✅: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL)  
 ✅: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)  
 - błędy bezpieczeństwa [https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api)
 - podatności [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api)
