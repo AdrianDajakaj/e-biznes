@@ -114,11 +114,16 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059e
 - Backend: [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/f88e7f4](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/f88e7f4)
 
 
-✅: 3.5 Eliminacja wszystkich bugów w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?id=AdrianDajakaj_go-ecommerce-api&types=BUG](https://sonarcloud.io/project/issues?id=AdrianDajakaj_go-ecommerce-api&types=BUG)
-:question: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej)  
-:question: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)  
+✅: 3.5 Eliminacja wszystkich bugów w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=BUG](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=BUG)  
+✅: 4.0 Eliminacja wszystkich zapaszków w kodzie w Sonarze (kod aplikacji serwerowej) [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api&types=CODE_SMELL)
+✅: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)  
+- błędy bezpieczeństwa [https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api)
+- podatności [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api)
+- summary [https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main](https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main)
+
 :question: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej
 
 
 Kod:  
-Demo:
+- Aplikacja serwerowa: [https://github.com/AdrianDajakaj/go-ecommerce-api.git](https://github.com/AdrianDajakaj/go-ecommerce-api.git)
+- Aplikacja kliencka: [https://github.com/AdrianDajakaj/react-ecommerce-client.git](https://github.com/AdrianDajakaj/react-ecommerce-client.git)
