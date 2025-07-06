@@ -105,7 +105,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63
 
 
 Kod:  [ecommerce-fullstack](https://github.com/AdrianDajakaj/ecommerce-fullstack.git)  
-Demo:
+Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059ea8fc0796fd9b4c/demos/cypress_tests.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059ea8fc0796fd9b4c/demos/cypress_tests.mp4)
 
 **Zadanie 7** Sonar
 
