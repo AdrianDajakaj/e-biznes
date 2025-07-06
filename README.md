@@ -95,8 +95,8 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63
 
 **Zadanie 6** Testy
 
-:question: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)  
-:question: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji  
+✅: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65)  
+✅: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji  
 :question: 4.0 Testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami  
 :question: 4.5 Testy API, pokrywające wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint  
 :question: 5.0 Uruchomienie testów funkcjonalnych na Browserstacku
