@@ -1,4 +1,4 @@
-**Zadanie 1** Docker
+## Zadanie 1 Docker
 
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79](https://github.com/AdrianDajakaj/docker-images-exercises/commit/974fb79)
 
@@ -14,7 +14,7 @@
 Kod: [docker-images-exercises](https://github.com/AdrianDajakaj/docker-images-exercises.git)  
 Demo: [docker.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d44787e08c8d9ce063cea371b856522a5c1/demos/docker.mp4)
 
-**Zadanie 2** Scala  
+## Zadanie 2 Scala  
 Aplikacja na frameworku Play w Scali 3. 
 
 :white_check_mark: 3.0 Kontroler do Produktów [https://github.com/AdrianDajakaj/scala-play-crud/commit/56f8910](https://github.com/AdrianDajakaj/scala-play-crud/commit/56f8910)
@@ -34,7 +34,7 @@ Aplikacja na frameworku Play w Scali 3.
 Kod: [scala-play-crud](https://github.com/AdrianDajakaj/scala-play-crud.git)  
 Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d44787e08c8d9ce063cea371b856522a5c1/demos/scala_play.mp4)
 
-**Zadanie 3** Kotlin
+## Zadanie 3 Kotlin
 
 :white_check_mark: 3.0 Aplikacja kliencka w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord [https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/c44eda8](https://github.com/AdrianDajakaj/kotlin-ktor-client-app/commit/c44eda8)
 
@@ -55,7 +55,7 @@ Demo: [scala_play.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/2bfc1d4478
 Kod: [kotlin-ktor-client-app](https://github.com/AdrianDajakaj/kotlin-ktor-client-app.git)  
 Demo: [kotlin_ktor.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/21c8c68e17a1ba6e72f53b5592703fd7deb939c0/demos/kotlin_ktor.mp4)
 
-**Zadanie 4** Go
+## Zadanie 4 Go
 
 ✅: 3.0 Aplikacja we frameworku echo w j. Go, posiadająca kontroler Produktów zgodny z CRUD  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557)
 
@@ -73,7 +73,7 @@ listy)  [https://github.com/AdrianDajakaj/go-ecommerce-api/commit/9560557](https
 Kod: [go-ecommerce-api](https://github.com/AdrianDajakaj/go-ecommerce-api.git)  
 Demo: [go_ecommerce_api.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/bcaacb4775158d2990da98ab872746ac54c86e15/demos/go_ecommerce_api.mp4)
 
-**Zadanie 5** Frontend
+## Zadanie 5 Frontend
 
 ✅: 3.0 Stworzone dwa komponenty: Produkty oraz Płatności; Płatności wysyłają do aplikacji serwerowej dane, a w Produktach pobierane są dane o produktach z aplikacji serwerowej  [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/e267d71)  
 ✅: 3.5 Koszyk wraz z widokiem wykorzystując routing   [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/6ccaf88)  
@@ -93,7 +93,7 @@ Kod:
 
 Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63c45bf76e3b4abe/demos/react_tsx.mp4)
 
-**Zadanie 6** Testy
+## Zadanie 6 Testy
 
 ✅: 3.0 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/a269e65)  
 ✅: 3.5 Rozszerzone testy funkcjonalne, zawierające minimum 50 asercji  [https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/96df336](https://github.com/AdrianDajakaj/ecommerce-fullstack/commit/96df336)  
@@ -107,7 +107,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/d14b903db94bfd3b497166df63
 Kod:  [ecommerce-fullstack](https://github.com/AdrianDajakaj/ecommerce-fullstack.git)  
 Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059ea8fc0796fd9b4c/demos/cypress_tests.mp4](https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059ea8fc0796fd9b4c/demos/cypress_tests.mp4)
 
-**Zadanie 7** Sonar
+## Zadanie 7 Sonar
 
 ✅: 3.0 Dodanie litera do odpowiedniego kodu aplikacji serwerowej w hookach gita  
 - Frontend: [https://github.com/AdrianDajakaj/react-ecommerce-client/commit/f70455a](https://github.com/AdrianDajakaj/react-ecommerce-client/commit/f70455a)
@@ -128,49 +128,53 @@ Kod:
 - Aplikacja kliencka: [https://github.com/AdrianDajakaj/react-ecommerce-client.git](https://github.com/AdrianDajakaj/react-ecommerce-client.git)
 
 
-**Zadanie 8** Oauth2
+## Zadanie 8 Oauth2
 
 
-3.0 Logowanie przez aplikację serwerową (bez Oauth2)
+- 3.0 Logowanie przez aplikację serwerową (bez Oauth2)
 
-3.5 Rejestracja przez aplikację serwerową (bez Oauth2)
+- 3.5 Rejestracja przez aplikację serwerową (bez Oauth2)
 
-4.0 Logowanie via Google OAuth2
+- 4.0 Logowanie via Google OAuth2
 
-4.5 Logowanie via Facebook lub Github OAuth2
+- 4.5 Logowanie via Facebook lub Github OAuth2
 
-5.0 Zapisywanie danych logowania OAuth2 po stronie serwera
-
-
-**Zadanie 9** LLM bot
+- 5.0 Zapisywanie danych logowania OAuth2 po stronie serwera
 
 
-3.0 Po stronie serwerowej osobny serwis do łączenia z
+## Zadanie 9 LLM bot
+
+
+- 3.0 Po stronie serwerowej osobny serwis do łączenia z
 chatGPT do usługi chat
 
-3.5 Interfejs frontowy dla użytkownika, który
+- 3.5 Interfejs frontowy dla użytkownika, który
 komunikuje się z serwisem; odpowiedzi wysyłane do
 frontendowego interfejsu
 
-4.0 Lista 5 różnych otwarć oraz zamknięć rozmowy
+- 4.0 Lista 5 różnych otwarć oraz zamknięć rozmowy
 
-4.5 Filtrowanie po zagadnieniach związanych ze sklepem (np.
+- 4.5 Filtrowanie po zagadnieniach związanych ze sklepem (np.
 ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
 
-5.0 Filtrowanie odpowiedzi po sentymencie
+- 5.0 Filtrowanie odpowiedzi po sentymencie
 
 
-**Zadanie 10** Chmura/CI
+## Zadanie 10 Chmura/CI
 
 
-3.0 Odpowiednie instancje po stronie chmury na
+- 3.0 Odpowiednie instancje po stronie chmury na
 dockerze
-3.5 Odpowiedni pipeline w Github Actions do budowania
+
+- 3.5 Odpowiedni pipeline w Github Actions do budowania
 aplikacji (np. via fatjar)
-4.0 Notyfikacja mailowa o zbudowaniu aplikacji
-4.5 Krok z deploymentem aplikacji serwerowej oraz klienckiej na
+
+- 4.0 Notyfikacja mailowa o zbudowaniu aplikacji
+
+- 4.5 Krok z deploymentem aplikacji serwerowej oraz klienckiej na
 chmurę
-5.0 Uruchomienie regresyjnych testów automatycznych
+
+- 5.0 Uruchomienie regresyjnych testów automatycznych
 (funkcjonalnych) jako krok w Actions
 
 
