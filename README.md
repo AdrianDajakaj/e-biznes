@@ -119,7 +119,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059e
 ✅: 4.5 Eliminacja wszystkich podatności oraz błędów bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)  
 - błędy bezpieczeństwa [https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/security_hotspots?id=AdrianDajakaj_go-ecommerce-api)
 - podatności [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api)
-- summary [https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main](https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main)
+- overview [https://sonarcloud.io/project/overview?id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/overview?id=AdrianDajakaj_go-ecommerce-api)
 
 ✅: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej [https://sonarcloud.io/project/overview?id=AdrianDajakaj_react-ecommerce-client](https://sonarcloud.io/project/overview?id=AdrianDajakaj_react-ecommerce-client)
 
