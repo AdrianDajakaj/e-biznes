@@ -121,7 +121,7 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059e
 - podatności [https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api](https://sonarcloud.io/project/issues?issueStatuses=OPEN%2CCONFIRMED&id=AdrianDajakaj_go-ecommerce-api)
 - summary [https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main](https://sonarcloud.io/summary/new_code?id=AdrianDajakaj_go-ecommerce-api&branch=main)
 
-:question: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej
+✅: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej [https://sonarcloud.io/project/overview?id=AdrianDajakaj_react-ecommerce-client](https://sonarcloud.io/project/overview?id=AdrianDajakaj_react-ecommerce-client)
 
 Kod:  
 - Aplikacja serwerowa: [https://github.com/AdrianDajakaj/go-ecommerce-api.git](https://github.com/AdrianDajakaj/go-ecommerce-api.git)
