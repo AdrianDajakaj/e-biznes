@@ -123,7 +123,56 @@ Demo: [https://github.com/AdrianDajakaj/e-biznes/blob/650f9a6d108abc792a04b2059e
 
 :question: 5.0 Eliminacja wszystkich błędów oraz zapaszków w kodzie aplikacji klienckiej
 
-
 Kod:  
 - Aplikacja serwerowa: [https://github.com/AdrianDajakaj/go-ecommerce-api.git](https://github.com/AdrianDajakaj/go-ecommerce-api.git)
 - Aplikacja kliencka: [https://github.com/AdrianDajakaj/react-ecommerce-client.git](https://github.com/AdrianDajakaj/react-ecommerce-client.git)
+
+
+**Zadanie 8** Oauth2
+
+
+3.0 Logowanie przez aplikację serwerową (bez Oauth2)
+
+3.5 Rejestracja przez aplikację serwerową (bez Oauth2)
+
+4.0 Logowanie via Google OAuth2
+
+4.5 Logowanie via Facebook lub Github OAuth2
+
+5.0 Zapisywanie danych logowania OAuth2 po stronie serwera
+
+
+**Zadanie 9** LLM bot
+
+
+3.0 Po stronie serwerowej osobny serwis do łączenia z
+chatGPT do usługi chat
+
+3.5 Interfejs frontowy dla użytkownika, który
+komunikuje się z serwisem; odpowiedzi wysyłane do
+frontendowego interfejsu
+
+4.0 Lista 5 różnych otwarć oraz zamknięć rozmowy
+
+4.5 Filtrowanie po zagadnieniach związanych ze sklepem (np.
+ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT
+
+5.0 Filtrowanie odpowiedzi po sentymencie
+
+
+**Zadanie 10** Chmura/CI
+
+
+3.0 Odpowiednie instancje po stronie chmury na
+dockerze
+3.5 Odpowiedni pipeline w Github Actions do budowania
+aplikacji (np. via fatjar)
+4.0 Notyfikacja mailowa o zbudowaniu aplikacji
+4.5 Krok z deploymentem aplikacji serwerowej oraz klienckiej na
+chmurę
+5.0 Uruchomienie regresyjnych testów automatycznych
+(funkcjonalnych) jako krok w Actions
+
+
+
+
